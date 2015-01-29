@@ -1,8 +1,6 @@
 
 public class Lentejas extends Plato implements Sal {
 	
-	int cantGr;
-	double precio;
 	String prep = "preparar";
 	private String tipoLent;
 	
